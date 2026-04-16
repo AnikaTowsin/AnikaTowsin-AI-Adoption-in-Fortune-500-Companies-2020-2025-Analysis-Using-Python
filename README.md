@@ -4,7 +4,7 @@ An Exploratory Data Analysis (EDA) investigating the 'AI Productivity Paradox.' 
 ![AI Maturity vs ROI Correlation](cor.png)
 <img width="826" height="454" alt="Screenshot 2026-04-16 at 9 14 10 PM" src="https://github.com/user-attachments/assets/d145228a-d796-468f-a491-3686aed611c8" />
 
-Conclusion:
+### Conclusion:
 
 Sector Dominance:The "Technology," "Finance," and "Telecom" sectors lead in volume,Conversely, traditional sectors like "Automotive" and "Industrial" show significantly lower representation in this dataset.
 
