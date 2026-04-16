@@ -2,3 +2,5 @@
 An Exploratory Data Analysis (EDA) investigating the 'AI Productivity Paradox.' This project uses Python to clean and analyze Fortune 500 data, testing the correlation between AI Maturity and ROI across diverse industries to determine if AI's financial impact matches the theoretical hype.
 ### 📊 Key Visualization
 ![AI Maturity vs ROI Correlation](cor.png)
+<img width="826" height="454" alt="Screenshot 2026-04-16 at 9 14 10 PM" src="https://github.com/user-attachments/assets/d145228a-d796-468f-a491-3686aed611c8" />
+
